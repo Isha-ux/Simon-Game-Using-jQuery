@@ -25,4 +25,4 @@
 <li> CSS: Styling and animations</li>
 <li> jQuery: Game logic and interactivity</li>
 </ul>
-<h4></h4>Play the game and challenge your memory!</h4>
+<h4>Play the game and challenge your memory!</h4>
